@@ -1,15 +1,4 @@
 {
-    "name": "Discord-Chatbot",
-    "version": "1.0.0",
-    "description": "A modular Discord  chatbot",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js"
-    },
-    "author": "zenin191",
-    "license": "GPL-3.0",
-    "dependencies": {
-    "discord.js": "^14.18.0",
-    "node-fetch": "^2.6.9"
-}
+    "BOT_TOKEN": "REPLACE_WITH_YOU_BOT_TOKEN",
+    "NAVY_API_KEY": "REPLACE_WITH_YOUR_NAVY_API_KEY"
 }
